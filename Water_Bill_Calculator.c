@@ -35,4 +35,5 @@ Discription : wringting a program to caclulate charges on water consuption
 		printf(" \n Total water bill :%.2f KES" ,water_bill);
 		
 		return 0;
+
 		}
